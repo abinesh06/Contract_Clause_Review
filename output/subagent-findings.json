@@ -1,0 +1,40 @@
+{
+  "contract": "contracts/sample-contract-3.txt",
+  "findings": [
+    {
+      "category_id": "auto-renewal-without-notice",
+      "severity": "medium",
+      "status": "not_present",
+      "matched_text": null,
+      "reasoning": "The Term is a fixed 12 months that simply expires (Section 2.2), and any continuation requires a new written amendment signed by both Parties; there is no automatic rollover mechanism."
+    },
+    {
+      "category_id": "unlimited-liability",
+      "severity": "high",
+      "status": "not_present",
+      "matched_text": "Each Party's total liability arising out of or relating to this Agreement shall not exceed the total fees paid or payable under this Agreement during the twelve (12) months before the event giving rise to the claim.",
+      "reasoning": "Liability is expressly capped at 12 months of fees (10.2) with only narrow, standard carve-outs for confidentiality breach, fraud, and gross negligence/willful misconduct (10.3), which is a mutual and conventional limitation, not an uncapped exposure."
+    },
+    {
+      "category_id": "unilateral-termination",
+      "severity": "high",
+      "status": "not_present",
+      "matched_text": "Either Party may terminate this Agreement for convenience by giving the other Party ninety (90) days prior written notice.",
+      "reasoning": "All termination rights in Section 12 (for convenience, for uncured breach, for insolvency) are expressly granted to 'Either Party' symmetrically, so neither side is uniquely locked in."
+    },
+    {
+      "category_id": "exclusivity",
+      "severity": "medium",
+      "status": "not_present",
+      "matched_text": "This Agreement is non-exclusive. Advisor may provide services to other clients, including others in Client's industry... Client may obtain services of the same or a similar nature from any other party at any time...",
+      "reasoning": "Section 5 is explicitly titled 'Non-Exclusive Relationship' and both parties retain freedom to engage other counterparties, the direct opposite of an exclusivity restriction."
+    },
+    {
+      "category_id": "broad-indemnification",
+      "severity": "high",
+      "status": "not_present",
+      "matched_text": "Neither Party is obligated to indemnify the other for claims caused by the indemnified Party's own negligence or misconduct.",
+      "reasoning": "Section 11 defines narrow, mutual indemnities tied to specific third-party claims (IP infringement of deliverables; harm from a client implementing advice against Advisor's written warning) and expressly excludes claims caused by the indemnified party's own fault, which is the opposite of an open-ended, fault-inclusive indemnity."
+    }
+  ]
+}

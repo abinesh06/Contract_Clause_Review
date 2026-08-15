@@ -1,0 +1,233 @@
+CONSULTING SERVICES AGREEMENT
+
+This Consulting Services Agreement (this "Agreement") is entered into as of
+February 10, 2026 (the "Effective Date") by and between Bramble & Hoyt Advisory LLC, a
+Massachusetts limited liability company with offices at 15 Beacon Court, Boston,
+Massachusetts ("Advisor"), and Fairfield Instruments Corporation, a New York
+corporation with offices at 700 Canal Street, Rochester, New York ("Client"). Advisor
+and Client are each a "Party" and together the "Parties."
+
+1. SERVICES
+
+1.1 Advisor shall provide the operational advisory services described in Schedule 1
+(the "Services"). The Parties may add or modify Services only by written amendment
+signed by both Parties.
+
+1.2 Advisor shall perform the Services with the degree of skill and care ordinarily
+exercised by qualified professionals performing comparable services.
+
+1.3 Advisor shall keep Client reasonably informed of progress and shall provide a
+written status summary at the end of each month during the Term.
+
+2. TERM
+
+2.1 The Term begins on the Effective Date and ends twelve (12) months later.
+
+2.2 This Agreement expires at the end of the Term. Any continuation of the Services
+requires a written amendment signed by both Parties before the Term ends.
+
+3. FEES, EXPENSES, AND PAYMENT
+
+3.1 Client shall pay Advisor the fees stated in Schedule 1.
+
+3.2 Advisor shall submit invoices monthly. Client shall pay undisputed amounts within
+thirty (30) days after receiving an invoice.
+
+3.3 Client shall reimburse reasonable travel and out-of-pocket expenses that Client
+approved in writing in advance, supported by receipts.
+
+3.4 Each Party is responsible for its own taxes arising from this Agreement, except that
+Client is responsible for any applicable sales or use tax on the Services.
+
+4. CLIENT COOPERATION
+
+4.1 Client shall make available the personnel, records, and information that Advisor
+reasonably needs to perform the Services, and shall designate a primary contact
+authorized to provide direction on Client's behalf.
+
+4.2 If Client's delay in providing cooperation affects the schedule, the Parties shall
+agree in writing on a revised schedule, and neither Party shall be treated as in breach
+solely because of that delay.
+
+5. NON-EXCLUSIVE RELATIONSHIP
+
+5.1 This Agreement is non-exclusive. Advisor may provide services to other clients,
+including others in Client's industry, subject to Advisor's confidentiality obligations
+under Section 7.
+
+5.2 Client may obtain services of the same or a similar nature from any other party at
+any time, and from its own personnel, without restriction and without notice to Advisor.
+
+6. PERSONNEL
+
+6.1 Advisor's personnel are employees or contractors of Advisor and are not employees of
+Client. Advisor is responsible for their compensation, taxes, and benefits.
+
+6.2 During the Term and for twelve (12) months afterward, neither Party shall knowingly
+solicit for employment any individual of the other Party who was directly involved in
+the Services, except that general advertisements not targeted at such individuals are
+permitted.
+
+7. CONFIDENTIALITY
+
+7.1 Each Party shall protect the other Party's non-public business, technical, and
+financial information ("Confidential Information") using at least reasonable care, and
+shall use it only to perform or receive the Services.
+
+7.2 Confidential Information excludes information that is publicly available through no
+fault of the receiving Party, was known to the receiving Party without a duty of
+confidence before disclosure, is independently developed without use of the disclosing
+Party's Confidential Information, or is rightfully received from a third party without
+restriction.
+
+7.3 A receiving Party compelled by law to disclose Confidential Information shall, where
+legally permitted, notify the disclosing Party in advance and disclose only what is
+required.
+
+7.4 These obligations continue for three (3) years after the Term ends. Upon request
+after termination or expiration, each Party shall return or destroy the other's
+Confidential Information, except for copies retained in routine backups or as required
+by law or professional record-keeping rules.
+
+8. INTELLECTUAL PROPERTY
+
+8.1 Client owns the written reports and recommendations that Advisor prepares
+specifically for Client under this Agreement, effective upon payment of the fees for the
+Services that produced them.
+
+8.2 Advisor retains ownership of the frameworks, templates, and general knowledge and
+experience it uses to perform the Services, and grants Client a perpetual,
+non-exclusive, royalty-free license to use those materials to the extent they are
+included in the reports described in Section 8.1.
+
+8.3 Nothing in this Agreement transfers either Party's trademarks or requires either
+Party to use the other's name in publicity without prior written consent.
+
+9. REPRESENTATIONS AND WARRANTIES
+
+9.1 Each Party represents that it is duly organized and in good standing, that it has
+the authority to enter into this Agreement, and that this Agreement does not conflict
+with any of its other obligations.
+
+9.2 Advisor warrants that the Services will be performed in a professional and
+workmanlike manner. If Client notifies Advisor of a breach of this warranty within
+thirty (30) days of the affected Services, Advisor shall re-perform them at no
+additional charge.
+
+9.3 Advisor does not guarantee any particular business outcome or financial result, and
+Client remains responsible for its own business decisions.
+
+10. LIMITATION OF LIABILITY
+
+10.1 Neither Party shall be liable to the other for indirect, incidental, special, or
+consequential damages, or for lost profits or lost business opportunity, arising out of
+or relating to this Agreement.
+
+10.2 Each Party's total liability arising out of or relating to this Agreement shall not
+exceed the total fees paid or payable under this Agreement during the twelve (12) months
+before the event giving rise to the claim.
+
+10.3 Section 10.1 and Section 10.2 do not limit either Party's liability for its breach
+of Section 7, for fraud, or for gross negligence or willful misconduct.
+
+10.4 The Parties agree that the allocation of risk in this Section 10 is a material part
+of the bargain and is reflected in the fees.
+
+11. MUTUAL INDEMNIFICATION
+
+11.1 Advisor shall defend Client against third-party claims that the reports described
+in Section 8.1 infringe a United States copyright or trade secret, and shall pay
+settlements it approves and damages finally awarded on such claims.
+
+11.2 Client shall defend Advisor against third-party claims arising from Client's
+implementation of Advisor's recommendations in a manner Advisor advised against in
+writing, and shall pay settlements it approves and damages finally awarded on such
+claims.
+
+11.3 Each indemnity in this Section 11 is conditioned on the indemnified Party giving
+prompt written notice of the claim, permitting the indemnifying Party to control the
+defense, and cooperating at the indemnifying Party's reasonable expense. Neither Party
+shall settle a claim in a way that imposes a non-monetary obligation on the other
+without that Party's written consent.
+
+11.4 Neither Party is obligated to indemnify the other for claims caused by the
+indemnified Party's own negligence or misconduct.
+
+12. TERMINATION
+
+12.1 Either Party may terminate this Agreement for convenience by giving the other Party
+ninety (90) days prior written notice.
+
+12.2 Either Party may terminate this Agreement if the other Party materially breaches it
+and does not cure the breach within thirty (30) days after receiving written notice that
+describes the breach in reasonable detail.
+
+12.3 Either Party may terminate this Agreement immediately if the other Party becomes
+insolvent, makes an assignment for the benefit of creditors, or has a receiver appointed
+over a substantial part of its assets.
+
+12.4 Upon expiration or termination, Client shall pay for Services performed through the
+effective date, Advisor shall deliver work in progress that Client has paid for, and
+Sections 7, 8, 10, 11, and 14 shall survive.
+
+13. INSURANCE
+
+13.1 Each Party shall maintain the insurance coverage customary for its business,
+including commercial general liability coverage of at least one million dollars
+($1,000,000) per occurrence, and shall provide a certificate of insurance on reasonable
+request.
+
+14. GOVERNING LAW AND DISPUTES
+
+14.1 This Agreement is governed by the laws of the State of New York, excluding its
+conflict of laws rules.
+
+14.2 Before starting litigation, the Parties shall attempt to resolve any dispute
+through good-faith discussions between senior representatives for at least thirty (30)
+days after written notice of the dispute.
+
+14.3 Any litigation shall be brought in the state or federal courts located in New York
+County, New York, and each Party consents to venue there.
+
+15. GENERAL
+
+15.1 Neither Party may assign this Agreement or delegate its obligations without the
+other Party's prior written consent, except to a successor by merger or by purchase of
+substantially all of its assets, provided the successor assumes this Agreement in
+writing.
+
+15.2 Neither Party is liable for a failure or delay in performance caused by an event
+beyond its reasonable control, provided that the affected Party notifies the other
+promptly, mitigates where practicable, and resumes performance as soon as it reasonably
+can. If such an event continues for more than sixty (60) days, either Party may
+terminate this Agreement on written notice.
+
+15.3 The Parties are independent contractors. This Agreement does not create a
+partnership, joint venture, agency, or employment relationship, and neither Party may
+bind the other.
+
+15.4 Notices must be in writing and delivered by hand, by nationally recognized
+overnight courier, or by certified mail to the addresses stated above, and are effective
+on receipt.
+
+15.5 A waiver of any provision is effective only if in writing and signed by the waiving
+Party, and does not waive any other provision or any later breach.
+
+15.6 This Agreement, including Schedule 1, is the complete and exclusive statement of
+the Parties' agreement on this subject and supersedes all prior proposals and
+understandings. It may be amended only by a written document signed by both Parties.
+
+15.7 If a court finds any provision unenforceable, that provision shall be limited to
+the minimum extent necessary so that the remainder of this Agreement continues in
+effect.
+
+15.8 This Agreement may be signed in counterparts, including by electronic signature,
+each of which is an original.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+BRAMBLE & HOYT ADVISORY LLC            FAIRFIELD INSTRUMENTS CORPORATION
+
+By: ____________________________       By: ____________________________
+Name: Teresa Bramble                   Name: Victor Lindqvist
+Title: Partner                         Title: Chief Operating Officer

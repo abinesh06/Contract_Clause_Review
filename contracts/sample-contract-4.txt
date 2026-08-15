@@ -1,0 +1,228 @@
+SOFTWARE SUBSCRIPTION AGREEMENT
+
+This Software Subscription Agreement (this "Agreement") is entered into as of
+October 6, 2025 (the "Effective Date") by and between Vertex Cloud Systems, Inc., a
+Colorado corporation with offices at 2200 Front Range Parkway, Denver, Colorado
+("Vendor"), and Lakeside Freight Partners, LLC, an Illinois limited liability company
+with offices at 350 Dock Street, Chicago, Illinois ("Customer"). Vendor and Customer are
+each a "Party" and together the "Parties."
+
+1. SUBSCRIPTION AND LICENSE
+
+1.1 Vendor grants Customer a non-exclusive, non-transferable right to access and use the
+hosted software platform described in Schedule A (the "Platform") during the Term, solely
+for Customer's internal business operations.
+
+1.2 Customer may permit its employees and contractors to use the Platform, provided that
+Customer remains responsible for their compliance with this Agreement.
+
+1.3 Customer shall not reverse engineer the Platform, resell access to it, or use it to
+build a competing product.
+
+1.4 Vendor retains all right, title, and interest in the Platform, including all
+improvements and modifications to it.
+
+2. IMPLEMENTATION AND SUPPORT
+
+2.1 Vendor shall provide the implementation assistance described in Schedule A and shall
+assign an implementation lead for the first ninety (90) days following the Effective
+Date.
+
+2.2 Vendor shall provide technical support during business hours and shall use
+commercially reasonable efforts to respond to support requests within the target
+response times stated in Schedule B.
+
+2.3 Vendor shall give Customer at least thirty (30) days notice before making a change
+to the Platform that materially reduces its core functionality.
+
+3. TERM
+
+3.1 The Term begins on the Effective Date and continues for thirty-six (36) months.
+
+3.2 This Agreement expires at the end of the Term. Continuation of the subscription
+requires a written amendment signed by both Parties before the Term ends, and neither
+Party is obligated to agree to one.
+
+4. FEES AND PAYMENT
+
+4.1 Customer shall pay the subscription fees stated in Schedule A, invoiced annually in
+advance.
+
+4.2 Customer shall pay undisputed invoice amounts within thirty (30) days after receiving
+an invoice. If Customer disputes an amount in good faith, Customer shall pay the
+undisputed portion when due and the Parties shall work together to resolve the remainder
+within thirty (30) days.
+
+4.3 Subscription fees are fixed for the first twenty-four (24) months. Any later
+adjustment takes effect only upon Customer's written acceptance.
+
+4.4 Each Party is responsible for its own taxes, except that Customer is responsible for
+applicable sales and use taxes on the subscription.
+
+5. CUSTOMER DATA
+
+5.1 Customer owns all data it or its users submit to the Platform ("Customer Data").
+Vendor may use Customer Data only to provide and support the Platform.
+
+5.2 Vendor shall maintain administrative, technical, and physical safeguards appropriate
+to the sensitivity of Customer Data, and shall notify Customer without unreasonable
+delay after confirming a security incident affecting Customer Data.
+
+5.3 During the Term and for sixty (60) days afterward, Customer may export Customer Data
+in a documented machine-readable format at no additional charge.
+
+6. NON-EXCLUSIVE RELATIONSHIP
+
+6.1 This Agreement is non-exclusive. Customer may license, purchase, build, or operate
+software of the same or a similar nature from or with any other party at any time,
+without restriction and without notice to Vendor.
+
+6.2 Vendor may license the Platform to any other party, including others in Customer's
+industry, subject to Vendor's confidentiality obligations under Section 8.
+
+7. SERVICE LEVELS
+
+7.1 Vendor shall make the Platform available at least 99.5% of the time each calendar
+month, excluding scheduled maintenance for which Vendor gave at least seventy-two (72)
+hours notice.
+
+7.2 If Vendor fails to meet the availability commitment in a given month, Customer is
+entitled to the service credits stated in Schedule B.
+
+8. CONFIDENTIALITY
+
+8.1 Each Party shall protect the other Party's non-public business, technical, and
+financial information ("Confidential Information") using at least reasonable care, and
+shall use it only to perform or receive under this Agreement.
+
+8.2 Confidential Information excludes information that is publicly available through no
+fault of the receiving Party, was known to the receiving Party without a duty of
+confidence before disclosure, is independently developed without use of the disclosing
+Party's Confidential Information, or is rightfully received from a third party without
+restriction.
+
+8.3 A receiving Party compelled by law to disclose Confidential Information shall, where
+legally permitted, notify the disclosing Party in advance and disclose only what is
+required.
+
+8.4 These obligations continue for three (3) years after the Term ends.
+
+9. REPRESENTATIONS AND WARRANTIES
+
+9.1 Each Party represents that it is duly organized and in good standing and has the
+authority to enter into this Agreement.
+
+9.2 Vendor warrants that the Platform will perform materially in accordance with the
+documentation in Schedule A. If it does not, and Customer notifies Vendor within thirty
+(30) days of discovering the problem, Vendor shall correct it at no additional charge.
+
+9.3 Vendor does not warrant that the Platform will be error-free or uninterrupted.
+
+10. LIMITATION OF LIABILITY
+
+10.1 Neither Party shall be liable to the other for indirect, incidental, special, or
+consequential damages, or for lost profits, arising out of or relating to this Agreement.
+
+10.2 Each Party's aggregate liability arising out of or relating to this Agreement shall
+not exceed the total fees paid or payable under this Agreement during the twelve (12)
+months before the event giving rise to the claim.
+
+10.3 Section 10.1 and Section 10.2 do not limit either Party's liability for its breach
+of Section 8, for fraud, or for gross negligence or willful misconduct.
+
+10.4 The Parties agree that the allocation of risk in this Section 10 is a material part
+of the bargain and is reflected in the fees.
+
+11. MUTUAL INDEMNIFICATION
+
+11.1 Vendor shall defend Customer against third-party claims that the Platform infringes
+a United States patent, copyright, or trade secret, and shall pay settlements it approves
+and damages finally awarded on such claims.
+
+11.2 Customer shall defend Vendor against third-party claims arising from Customer Data
+that Customer submitted in breach of this Agreement, and shall pay settlements it
+approves and damages finally awarded on such claims.
+
+11.3 Each indemnity in this Section 11 is conditioned on the indemnified Party giving
+prompt written notice of the claim, permitting the indemnifying Party to control the
+defense, and cooperating at the indemnifying Party's reasonable expense.
+
+11.4 Neither Party is obligated to indemnify the other for claims caused by the
+indemnified Party's own negligence or misconduct.
+
+12. TERMINATION AND SUSPENSION
+
+12.1 Vendor may terminate this Agreement at any time, with or without cause, effective
+immediately upon written notice, without any liability to Customer beyond a refund of
+prepaid subscription fees covering the unused portion of the Term.
+
+12.2 Vendor may also, at its sole discretion, terminate this Agreement or suspend
+Customer's access to the Platform if Vendor discontinues the Platform, reallocates
+capacity, or determines that continuing to serve Customer is no longer consistent with
+Vendor's business plans. Vendor is not required to state a reason for any action taken
+under this Section 12.
+
+12.3 Customer shall have no right to terminate this Agreement before the end of the Term
+except in the case of Vendor's material breach that remains uncured for sixty (60) days
+after Customer's written notice describing the breach. Customer remains obligated to pay
+the full subscription fees for the entire Term notwithstanding any early termination by
+Vendor under Section 12.1 or Section 12.2, other than the refund described in Section
+12.1.
+
+12.4 Upon expiration or termination, Customer's access to the Platform ends, Customer may
+export Customer Data as provided in Section 5.3, and Sections 5, 8, 10, 11, and 14
+survive.
+
+13. INSURANCE
+
+13.1 Each Party shall maintain the insurance coverage customary for its business,
+including commercial general liability coverage of at least one million dollars
+($1,000,000) per occurrence, and shall provide a certificate of insurance on reasonable
+request.
+
+14. GOVERNING LAW AND DISPUTES
+
+14.1 This Agreement is governed by the laws of the State of Illinois, excluding its
+conflict of laws rules.
+
+14.2 Before starting litigation, the Parties shall attempt to resolve any dispute through
+good-faith discussions between senior representatives for at least thirty (30) days after
+written notice of the dispute.
+
+14.3 Any litigation shall be brought in the state or federal courts located in Cook
+County, Illinois, and each Party consents to venue there.
+
+15. GENERAL
+
+15.1 Neither Party may assign this Agreement without the other Party's prior written
+consent, except to a successor by merger or by purchase of substantially all of its
+assets, provided the successor assumes this Agreement in writing.
+
+15.2 Neither Party is liable for a failure or delay in performance caused by an event
+beyond its reasonable control, provided the affected Party notifies the other promptly
+and resumes performance as soon as it reasonably can.
+
+15.3 The Parties are independent contractors. This Agreement does not create a
+partnership, joint venture, agency, or employment relationship.
+
+15.4 Notices must be in writing and delivered by hand, by nationally recognized overnight
+courier, or by certified mail to the addresses stated above, and are effective on
+receipt.
+
+15.5 A waiver of any provision is effective only if in writing and signed by the waiving
+Party, and does not waive any other provision or any later breach.
+
+15.6 This Agreement, including its Schedules, is the complete statement of the Parties'
+agreement on this subject and supersedes all prior proposals. It may be amended only by a
+written document signed by both Parties.
+
+15.7 If a court finds any provision unenforceable, that provision shall be limited to the
+minimum extent necessary so that the remainder of this Agreement continues in effect.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+VERTEX CLOUD SYSTEMS, INC.             LAKESIDE FREIGHT PARTNERS, LLC
+
+By: ____________________________       By: ____________________________
+Name: Sofia Marchetti                  Name: Reginald Okonkwo
+Title: SVP, Customer Success           Title: Director of Logistics Technology

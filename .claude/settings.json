@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "if": "Bash(python src/generate-summary.py*)",
+            "command": "python .claude/hooks/pretooluse-route-gate.py"
+          }
+        ]
+      }
+    ]
+  }
+}

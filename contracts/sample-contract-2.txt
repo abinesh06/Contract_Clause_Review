@@ -1,0 +1,206 @@
+PROFESSIONAL SERVICES AGREEMENT
+
+This Professional Services Agreement (this "Agreement") is made effective as of
+June 17, 2025 (the "Effective Date") between Cedarline Analytics LLC, an Oregon limited
+liability company located at 88 Willamette Avenue, Portland, Oregon ("Consultant"), and
+Harbor Point Medical Group, P.C., a Washington professional corporation located at
+2400 Pier Road, Seattle, Washington ("Company"). Consultant and Company are each a
+"Party" and together the "Parties."
+
+1. ENGAGEMENT AND SCOPE
+
+1.1 Company engages Consultant to provide data analytics and reporting services as
+described in Exhibit A (the "Services"). Additional services may be added by a written
+change order signed by both Parties.
+
+1.2 Consultant shall perform the Services in accordance with the schedule set out in
+Exhibit A and shall promptly notify Company of any circumstance that Consultant
+reasonably believes will delay a milestone.
+
+1.3 Consultant shall assign a lead analyst to the engagement and shall not replace that
+individual without first notifying Company and proposing a comparably qualified
+replacement.
+
+2. TERM
+
+2.1 This Agreement begins on the Effective Date and continues for twenty-four (24)
+months (the "Term").
+
+2.2 The Term may be extended only by a written amendment signed by both Parties. This
+Agreement does not renew automatically, and neither Party is obligated to extend it.
+
+3. FEES AND PAYMENT
+
+3.1 Company shall pay Consultant the fees stated in Exhibit A. Consultant shall invoice
+monthly, and Company shall pay undisputed invoice amounts within thirty (30) days of
+receipt.
+
+3.2 If Company disputes any portion of an invoice in good faith, Company shall pay the
+undisputed portion when due and the Parties shall work in good faith to resolve the
+disputed portion within thirty (30) days.
+
+3.3 Fees are firm for the first twelve (12) months of the Term. Thereafter, Consultant
+may propose a rate adjustment of not more than three percent (3%) per year, effective
+only upon Company's written acceptance.
+
+4. COMPANY OBLIGATIONS
+
+4.1 Company shall provide Consultant with the data, systems access, and subject-matter
+contacts reasonably necessary for the Services, and shall be responsible for the
+accuracy and completeness of data it supplies.
+
+4.2 Company shall review deliverables and provide written acceptance or a description of
+deficiencies within ten (10) business days of delivery. Deliverables not rejected within
+that period are deemed accepted.
+
+5. PREFERRED SUPPLIER ARRANGEMENT
+
+5.1 During the Term, Company shall not engage any third party to perform analytics
+services substantially similar to the Services with respect to the clinical datasets
+identified in Exhibit A, without Consultant's prior written consent, which shall not be
+unreasonably withheld or delayed.
+
+5.2 For the avoidance of doubt, Section 5.1 does not restrict Company from performing
+such services using its own internal personnel, from engaging third parties for services
+outside the scope described in Exhibit A, or from engaging any third party after the
+Term ends.
+
+6. CONFIDENTIALITY
+
+6.1 Each Party shall keep confidential the non-public information of the other Party
+that is disclosed in connection with this Agreement ("Confidential Information"), shall
+use it only as needed to perform this Agreement, and shall protect it with at least
+reasonable care.
+
+6.2 The receiving Party may disclose Confidential Information to its employees and
+professional advisors who need to know it and who are bound by confidentiality
+obligations no less protective than those in this Section 6.
+
+6.3 If the receiving Party is compelled by law to disclose Confidential Information, it
+shall give the disclosing Party prompt notice, to the extent legally permitted, so the
+disclosing Party may seek a protective order.
+
+6.4 These obligations continue for five (5) years after the end of the Term, and
+indefinitely with respect to protected health information.
+
+7. DATA PROTECTION
+
+7.1 To the extent Consultant handles protected health information on Company's behalf,
+the Parties shall execute a business associate agreement in the form attached as
+Exhibit B, which is incorporated by reference.
+
+7.2 Consultant shall maintain administrative, technical, and physical safeguards
+appropriate to the sensitivity of the data it processes, and shall notify Company
+without unreasonable delay, and in any event within seventy-two (72) hours, after
+confirming a security incident affecting Company data.
+
+8. INTELLECTUAL PROPERTY
+
+8.1 Company owns the reports, dashboards, and analyses delivered under this Agreement
+upon payment of the associated fees.
+
+8.2 Consultant retains ownership of its pre-existing tools, scripts, and general
+methodologies, and grants Company a perpetual, non-exclusive license to use them as
+embedded in the deliverables.
+
+8.3 Each Party retains ownership of its trademarks and may not use the other's
+trademarks without prior written consent.
+
+9. WARRANTIES
+
+9.1 Each Party represents that it has the authority to enter into this Agreement and
+that doing so does not conflict with any other obligation.
+
+9.2 Consultant warrants that the Services will be performed in a professional and
+workmanlike manner consistent with generally accepted industry practice. Company's
+remedy for a breach of this warranty is re-performance of the deficient Services or,
+if re-performance is not commercially practicable, a refund of the fees paid for the
+deficient Services.
+
+10. LIMITATION OF LIABILITY
+
+10.1 Neither Party shall be liable for indirect, incidental, special, or consequential
+damages, or for lost profits, arising out of or relating to this Agreement.
+
+10.2 Each Party's total liability arising out of or relating to this Agreement shall not
+exceed the total fees paid or payable under this Agreement in the twelve (12) months
+preceding the event giving rise to the claim.
+
+10.3 The limitations in this Section 10 do not apply to a Party's breach of its
+confidentiality obligations, its indemnification obligations under Section 11, or its
+gross negligence or willful misconduct.
+
+11. INDEMNIFICATION
+
+11.1 Consultant shall defend Company against third-party claims alleging that the
+deliverables infringe a United States patent, copyright, or trade secret, and shall pay
+damages finally awarded or agreed in settlement of such claims.
+
+11.2 Company shall defend Consultant against third-party claims arising from data that
+Company supplied to Consultant in breach of Company's representations in Section 4.1,
+and shall pay damages finally awarded or agreed in settlement of such claims.
+
+11.3 The indemnified Party shall give prompt notice of any claim, allow the indemnifying
+Party to control the defense, and provide reasonable cooperation at the indemnifying
+Party's expense. No settlement that imposes an obligation on the indemnified Party is
+binding without its consent.
+
+12. TERMINATION
+
+12.1 Either Party may terminate this Agreement for convenience upon sixty (60) days
+prior written notice to the other Party.
+
+12.2 Either Party may terminate this Agreement if the other Party materially breaches
+it and fails to cure the breach within thirty (30) days after receiving written notice
+describing the breach.
+
+12.3 Upon termination, Company shall pay for Services performed through the effective
+date of termination, and each Party shall return or destroy the other's Confidential
+Information upon request.
+
+13. INSURANCE
+
+13.1 Consultant shall maintain professional liability insurance of at least two million
+dollars ($2,000,000) per claim and commercial general liability insurance of at least
+one million dollars ($1,000,000) per occurrence, and shall provide certificates of
+insurance on request.
+
+14. GOVERNING LAW AND DISPUTE RESOLUTION
+
+14.1 This Agreement is governed by the laws of the State of Washington, excluding its
+conflict of laws rules.
+
+14.2 The Parties shall first attempt to resolve disputes through good-faith negotiation
+between senior representatives, and then through non-binding mediation in Seattle,
+Washington, before commencing litigation.
+
+15. GENERAL
+
+15.1 Neither Party may assign this Agreement without the other's prior written consent,
+except to a successor by merger or acquisition of substantially all of its assets.
+
+15.2 Consultant is an independent contractor. Neither Party is the agent of the other,
+and neither may bind the other.
+
+15.3 Neither Party is liable for failures to perform caused by events beyond its
+reasonable control, provided the affected Party gives prompt notice and resumes
+performance as soon as practicable.
+
+15.4 Notices must be in writing and sent to the addresses above by hand delivery,
+overnight courier, or certified mail.
+
+15.5 This Agreement, together with its Exhibits, is the entire agreement of the Parties
+on this subject and replaces all prior discussions. Amendments must be in writing and
+signed by both Parties.
+
+15.6 If any provision is found unenforceable, it shall be modified to the minimum extent
+necessary to make it enforceable, and the remainder of the Agreement shall continue in
+effect.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+CEDARLINE ANALYTICS LLC               HARBOR POINT MEDICAL GROUP, P.C.
+
+By: ____________________________      By: ____________________________
+Name: Priya Raghavan                  Name: Alan Osei
+Title: Managing Partner               Title: Practice Administrator

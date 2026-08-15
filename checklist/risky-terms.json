@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "updated": "2026-08-14",
+  "matching": {
+    "mode": "phrase",
+    "case_sensitive": false,
+    "notes": "Patterns are plain phrases matched as case-insensitive substrings against normalized contract text (collapse whitespace before matching). No regex at this stage."
+  },
+  "categories": [
+    {
+      "id": "auto-renewal-without-notice",
+      "name": "Auto-renewal without adequate notice",
+      "severity": "medium",
+      "description": "The agreement rolls over into a new term on its own, and the window to opt out is short or easy to miss. A missed deadline silently locks the customer into another full term at the counterparty's pricing.",
+      "patterns": [
+        "shall automatically renew",
+        "will automatically renew",
+        "automatically renewed for successive",
+        "successive one-year terms unless",
+        "auto-renew",
+        "evergreen term",
+        "written notice of non-renewal",
+        "thirty (30) days prior to the end of the then-current term"
+      ]
+    },
+    {
+      "id": "unlimited-liability",
+      "name": "Unlimited liability",
+      "severity": "high",
+      "description": "One party's exposure is uncapped, or an existing cap is expressly waived. Losses can exceed the total value of the contract, which makes the risk impossible to price or insure against.",
+      "patterns": [
+        "unlimited liability",
+        "liability shall be unlimited",
+        "shall be liable for any and all damages",
+        "without limitation as to amount",
+        "waives any limitation of liability",
+        "shall not be subject to any cap",
+        "no cap on liability",
+        "aggregate liability shall not be limited"
+      ]
+    },
+    {
+      "id": "unilateral-termination",
+      "name": "Unilateral termination rights",
+      "severity": "high",
+      "description": "Only one party can walk away, or can do so instantly and without cause, while the other is locked in. This removes any leverage the disadvantaged party has and makes long-term planning around the contract unsafe.",
+      "patterns": [
+        "may terminate this agreement at any time, with or without cause",
+        "at its sole discretion, terminate this agreement",
+        "sole and absolute discretion to terminate",
+        "terminate this agreement for convenience at any time without notice",
+        "immediately upon written notice, without any liability",
+        "shall have no right to terminate"
+      ]
+    },
+    {
+      "id": "exclusivity",
+      "name": "Exclusivity clauses",
+      "severity": "medium",
+      "description": "The agreement restricts one party from working with anyone else in a given market, category, or territory. This forecloses competitive alternatives and can be a problem if the counterparty underperforms mid-term.",
+      "patterns": [
+        "exclusive provider",
+        "exclusive supplier",
+        "exclusive right to provide",
+        "shall not engage any third party",
+        "shall not, directly or indirectly, solicit or engage any competitor",
+        "right of first refusal"
+      ]
+    },
+    {
+      "id": "broad-indemnification",
+      "name": "Broad indemnification",
+      "severity": "high",
+      "description": "The indemnity sweeps in claims of any kind, including ones caused by the indemnified party's own fault or negligence, rather than being limited to defined third-party claims. It converts a narrow risk allocation into an open-ended guarantee.",
+      "patterns": [
+        "any and all claims of any kind whatsoever",
+        "any and all liabilities, losses, damages",
+        "arising out of or in any way related to",
+        "regardless of the cause",
+        "including claims arising from the negligence of",
+        "without regard to fault"
+      ]
+    }
+  ]
+}

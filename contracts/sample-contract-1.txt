@@ -1,0 +1,185 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (this "Agreement") is entered into as of March 3, 2025
+(the "Effective Date") by and between Apex Digital Solutions, Inc., a Delaware
+corporation with its principal place of business at 400 Harbor Street, Wilmington,
+Delaware ("Provider"), and Northwind Retail Group, LLC, a Michigan limited liability
+company with its principal place of business at 1120 Lakeshore Drive, Grand Rapids,
+Michigan ("Client"). Provider and Client are each referred to as a "Party" and
+collectively as the "Parties."
+
+1. SERVICES
+
+1.1 Provider shall perform the professional services described in one or more
+statements of work executed by the Parties and referencing this Agreement (each, a
+"Statement of Work" or "SOW"). Each Statement of Work shall specify the scope of
+services, deliverables, milestones, fees, and any assumptions or dependencies
+applicable to the engagement (the "Services").
+
+1.2 In the event of a conflict between this Agreement and any Statement of Work, the
+terms of this Agreement shall control unless the Statement of Work expressly states
+that it supersedes a specific provision of this Agreement and is signed by an
+authorized representative of each Party.
+
+1.3 Provider may perform the Services through its employees, contractors, or
+affiliates, provided that Provider remains responsible for the performance of the
+Services in accordance with this Agreement.
+
+2. CLIENT RESPONSIBILITIES
+
+2.1 Client shall provide Provider with timely access to such personnel, systems,
+facilities, data, and information as Provider reasonably requires to perform the
+Services. Provider shall not be responsible for any delay or deficiency in the
+Services to the extent caused by Client's failure to provide such access.
+
+2.2 Client shall designate a project sponsor authorized to make decisions, approve
+deliverables, and resolve escalations on Client's behalf.
+
+3. TERM AND RENEWAL
+
+3.1 This Agreement shall commence on the Effective Date and continue for an initial
+term of twelve (12) months (the "Initial Term").
+
+3.2 Upon expiration of the Initial Term, this Agreement shall automatically renew for
+successive one-year terms unless Client delivers written notice of non-renewal to
+Provider no later than thirty (30) days prior to the end of the then-current Term.
+Each renewal term shall be subject to Provider's then-current standard rates, which
+Provider may adjust in its discretion upon notice posted to its customer portal.
+
+4. FEES AND PAYMENT
+
+4.1 Client shall pay the fees set forth in each Statement of Work. Unless otherwise
+stated, invoices are issued monthly in arrears and are due within thirty (30) days of
+the invoice date.
+
+4.2 Undisputed amounts not paid when due shall accrue interest at the rate of one and
+one-half percent (1.5%) per month or the maximum rate permitted by applicable law,
+whichever is lower.
+
+4.3 Client shall reimburse Provider for reasonable, pre-approved travel and
+out-of-pocket expenses incurred in connection with the Services.
+
+4.4 All fees are exclusive of sales, use, value-added, and similar taxes, which shall
+be Client's responsibility other than taxes on Provider's net income.
+
+5. CONFIDENTIALITY
+
+5.1 Each Party may disclose to the other certain non-public information relating to its
+business, technology, customers, or operations ("Confidential Information"). The
+receiving Party shall use Confidential Information solely to perform its obligations
+under this Agreement and shall protect it using at least the degree of care it applies
+to its own confidential information of similar importance, and in no event less than
+reasonable care.
+
+5.2 Confidential Information does not include information that is or becomes publicly
+available through no fault of the receiving Party, was rightfully known to the
+receiving Party without restriction prior to disclosure, or is independently developed
+without reference to the disclosing Party's Confidential Information.
+
+5.3 The obligations in this Section 5 shall survive for three (3) years following
+expiration or termination of this Agreement.
+
+6. INTELLECTUAL PROPERTY
+
+6.1 Upon Provider's receipt of full payment for the applicable Services, Client shall
+own the deliverables specifically identified as work product in the applicable
+Statement of Work.
+
+6.2 Provider retains all right, title, and interest in its pre-existing materials,
+methodologies, tools, templates, and know-how, including any improvements thereto, and
+grants Client a non-exclusive, non-transferable license to use such materials solely as
+incorporated into the deliverables.
+
+7. WARRANTIES
+
+7.1 Provider warrants that the Services will be performed in a professional and
+workmanlike manner by personnel with suitable skill and experience.
+
+7.2 EXCEPT AS EXPRESSLY SET FORTH IN THIS SECTION 7, THE SERVICES AND DELIVERABLES ARE
+PROVIDED "AS IS" AND PROVIDER DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED,
+OR STATUTORY, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE.
+
+8. TERMINATION
+
+8.1 Either Party may terminate this Agreement or any Statement of Work upon thirty (30)
+days written notice to the other Party of a material breach if such breach remains
+uncured at the end of that period.
+
+8.2 Upon termination, Client shall pay Provider for all Services performed and expenses
+incurred through the effective date of termination.
+
+9. LIMITATION OF LIABILITY
+
+9.1 Provider's aggregate liability arising out of or relating to this Agreement,
+whether in contract, tort, or otherwise, shall not exceed the total fees paid by Client
+under the applicable Statement of Work during the three (3) months preceding the event
+giving rise to the claim.
+
+9.2 Client's liability under this Agreement shall be unlimited. Client acknowledges and
+agrees that Client shall be liable for any and all damages arising from its use of the
+deliverables, its breach of this Agreement, or its instructions to Provider, without
+limitation as to amount, and Client expressly waives any limitation of liability that
+might otherwise apply to Client under this Agreement or at law.
+
+10. INDEMNIFICATION
+
+10.1 Client shall defend, indemnify, and hold harmless Provider, its affiliates, and
+their respective officers, directors, employees, contractors, and agents from and
+against any and all claims of any kind whatsoever, and any and all liabilities, losses,
+damages, fines, penalties, costs, and expenses (including reasonable attorneys' fees)
+arising out of or in any way related to this Agreement, the Services, or the
+deliverables, regardless of the cause and without regard to fault, including claims
+arising from the negligence of Provider or its personnel.
+
+10.2 Provider shall have no indemnification obligation to Client under this Agreement.
+
+11. INSURANCE
+
+11.1 Each Party shall maintain commercial general liability insurance with limits of not
+less than one million dollars ($1,000,000) per occurrence and shall provide a
+certificate of insurance upon request.
+
+12. GOVERNING LAW AND DISPUTES
+
+12.1 This Agreement is governed by the laws of the State of Delaware, without regard to
+its conflict of laws principles.
+
+12.2 The Parties shall attempt in good faith to resolve any dispute through discussion
+between senior representatives before initiating litigation. Any action shall be brought
+exclusively in the state or federal courts located in Wilmington, Delaware, and each
+Party consents to the jurisdiction of those courts.
+
+13. NOTICES
+
+13.1 Notices under this Agreement must be in writing and delivered by hand, nationally
+recognized overnight courier, or certified mail to the addresses stated above, and are
+effective upon receipt.
+
+14. GENERAL
+
+14.1 Neither Party may assign this Agreement without the other Party's prior written
+consent, except to a successor in connection with a merger or sale of substantially all
+of its assets.
+
+14.2 Neither Party shall be liable for delays caused by events beyond its reasonable
+control, including natural disasters, labor disputes, or failures of public
+infrastructure.
+
+14.3 The Parties are independent contractors. Nothing in this Agreement creates a
+partnership, joint venture, agency, or employment relationship.
+
+14.4 This Agreement, together with all Statements of Work, constitutes the entire
+agreement between the Parties regarding its subject matter and supersedes all prior
+proposals and discussions. Any amendment must be in writing and signed by both Parties.
+
+14.5 If any provision of this Agreement is held unenforceable, the remaining provisions
+shall remain in full force and effect.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+APEX DIGITAL SOLUTIONS, INC.          NORTHWIND RETAIL GROUP, LLC
+
+By: ____________________________      By: ____________________________
+Name: Dana Whitfield                  Name: Marcus Ellery
+Title: Chief Revenue Officer          Title: VP, Operations

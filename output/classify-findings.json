@@ -1,0 +1,36 @@
+{
+  "contract": "sample-contract-3.txt",
+  "source": "classify.py",
+  "findings": [
+    {
+      "category_id": "auto-renewal-without-notice",
+      "severity": "medium",
+      "status": "not_present",
+      "matched_text": null
+    },
+    {
+      "category_id": "unlimited-liability",
+      "severity": "high",
+      "status": "not_present",
+      "matched_text": null
+    },
+    {
+      "category_id": "unilateral-termination",
+      "severity": "high",
+      "status": "not_present",
+      "matched_text": null
+    },
+    {
+      "category_id": "exclusivity",
+      "severity": "medium",
+      "status": "not_present",
+      "matched_text": null
+    },
+    {
+      "category_id": "broad-indemnification",
+      "severity": "high",
+      "status": "not_present",
+      "matched_text": null
+    }
+  ]
+}
